@@ -2,8 +2,8 @@
 
 ![Python logo](https://www.python.org/static/img/python-logo.png)
 
-I'm a 16 yo french student, learning programing by myself.
-I'm a Python enthusiast, but I aim to learn Dart & Flutter to create mobile apps.
+I'm a 19 yo french student at INSA de Lyon, learning programing by myself.
+I'm a Python enthusiast, but I also know a bit of web developpment, Java and others.
 
 You can contact me [here](mailto:fromaggipizza@gmail.com), and also find me on [Instagram](https://www.instagram.com/clement_crd_/) !
 <!--
