@@ -1,22 +1,41 @@
-### Welcome to my profile, I'm CLEMS3 !
+# Hello ! 👋
 
-![Python logo](https://www.python.org/static/img/python-logo.png)
+Welcome to my GitHub profile! I'm CLEMS3, a computer science student passionate about everything computer related. Here, you'll find a collection of my projects.
 
-I'm a 19 yo french student at INSA de Lyon, learning programing by myself.
-I'm a Python enthusiast, but I also know a bit of web developpment, Java and others.
+## About Me
 
-You can contact me [here](mailto:fromaggipizza@gmail.com), and also find me on [Instagram](https://www.instagram.com/clement_crd_/) !
-<!--
-**CLEMS3/CLEMS3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19 year old student at INSA de Lyon, studying computer science. I love sports, reading, philosophy, and of course technology. I and am always excited to learn new things in the realms of IA, cybersecurity and development.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some highlighted projects I've been working on:
+
+### Quizz
+
+Description: One of my first pygame project dating from high school. It's a quiz based on a csv file, with several game modes, menus and even a soundex algorithm to prevent spelling mistakes, all available in both French and English.
+
+Repo Link [here](https://github.com/CLEMS3/Quizz)
+
+### Color Scale Generator
+
+Description: A basic website, in HTML, CSS and JS, which allows you to generate a scale of shades between two colors, with the possibility to pick the color at a precise percentage. It can be useful for mapmaking or to display data.
+
+Repo Link [here](https://github.com/CLEMS3/ColorScaleGenerator)
+
+Demo Link [here](https://colorscalecalculator.000webhostapp.com/)
+
+### RISK
+
+Description: A pygame reproduction of the famous game. You can play from 3 to 6 players. The game manages the missions of each player, the attack system, the troup distribution etc... It's challenging because of the complex rules and because of the complex display of the game. In addition to that, we have a launcher, in Tkinter, with a user gestion, requiring to register or to connect before launching a game. This project was made in collaboration with [olmetaprogrammer](https://github.com/olmetaprogrammer), [AntoinePscl](https://github.com/AntoinePscl) and [vitto4](https://github.com/vitto4)
+
+Repo Link [here](https://github.com/CLEMS3/RISK)
+
+
+## Get in touch
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-chapard-8349b3231/) and [Mail](mailto:fromaggipizza@gmail.com)! Feel free to reach out to me for collaborations or any interesting discussions.
+
+
+Looking forward to connecting with fellow developers, enthusiasts, and learners!
+
+Have a great day! 🚀
