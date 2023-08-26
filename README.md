@@ -29,6 +29,7 @@ Demo Link [here](https://colorscalecalculator.000webhostapp.com/)
 A pygame reproduction of the famous game. You can play from 3 to 6 players. The game manages the missions of each player, the attack system, the troup distribution etc... It's challenging because of the complex rules and because of the complex display of the game. In addition to that, we have a launcher, in Tkinter, with a user gestion, requiring to register or to connect before launching a game. This project was made in collaboration with [olmetaprogrammer](https://github.com/olmetaprogrammer), [AntoinePscl](https://github.com/AntoinePscl) and [vitto4](https://github.com/vitto4)
 
 Repo Link [here](https://github.com/CLEMS3/RISK)
+
 Demo Link [here](https://drive.google.com/file/d/1Gw-RwRHFq68P0Ttf7SCP2lsuzaglU9Kv/view)
 
 
