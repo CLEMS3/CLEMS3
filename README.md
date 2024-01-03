@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm CLEMS3, a computer science student passionate 
 
 ## About Me
 
-I'm a 19 year old student at INSA de Lyon, studying computer science. I love sports, reading, philosophy, and of course technology. I am always excited to learn new things in the realms of IA, cybersecurity and development.
+I'm a 20 year old student at INSA de Lyon, studying computer science. I love sports, reading, philosophy, and of course technology. I am always excited to learn new things in the realms of IA, cybersecurity and development.
 
 ## Projects
 
