@@ -1,43 +1,38 @@
-# Hello ! 👋
-
-Welcome to my GitHub profile! I'm CLEMS3, a computer science student passionate about everything computer related. Here, you'll find a collection of my projects.
+# Clément Chapard
 
 ## About Me
 
-I'm a 20 year old student at INSA de Lyon, studying computer science. I love sports, reading, philosophy, and of course technology. I am always excited to learn new things in the realms of IA, cybersecurity and development.
+I am a 5th-year Computer Science student at INSA Lyon and a graduate student at Illinois Tech pursuing a Master of Cybersecurity. My academic and professional experiences focus on cybersecurity, software engineering, and web development.
 
-## Projects
+## Interests
 
-Here are some highlighted projects I've been working on:
+* Blue team cybersecurity
+* Software development
+* Web developement
+* Secure and privacy preserving decentralized systems
 
-### Quizz
+## Current Goals
 
-One of my first pygame project dating from high school. It's a quiz based on a csv file, with several game modes, menus and even a soundex algorithm to prevent spelling mistakes, all available in both French and English.
+I am currently looking for a 6-months end-of-studies internship where I can apply my skills in cybersecurity, contribute to real-world security challenges, and deepen my expertise in security.
 
-Repo Link [here](https://github.com/CLEMS3/Quizz)
+## Skills
 
-### Color Scale Generator
+* **Software development:** Python, C/C++, Java
+* **Web development:** Django, Spring Boot, React, JavaScript, TypeScript, HTML, CSS
+* **Database:**  SQL, PL/SQL, MongoDB
+* **Data Science:** Python (numpy, pandas, scipy, sklearn), data mining, data clustering, GIS mapping, BI (Pentaho, MDX, PowerBI), Prolog
+* **Data Science:** protocoles et architecture, DNS, TCP/IP, ...
+* **Cybersecurity:** Cryptography, OT security, data protection, Zero Trust Protocol, homomorphic encryption, differential privacy, k-anonymity, frequent vulnerabilities
+* **Project management:** Git, GitHub, GitLab, Agile methodology
 
-A basic website, in HTML, CSS and JS, which allows you to generate a scale of shades between two colors, with the possibility to pick the color at a precise percentage. It can be useful for mapmaking or to display data.
+## Education
 
-Repo Link [here](https://github.com/CLEMS3/ColorScaleGenerator)
+* **INSA Lyon** – 5th Year, Computer Science Department
+* **Illinois Institute of Technology** – Master of Cybersecurity
 
-Demo Link [here](https://colorscalecalculator.000webhostapp.com/)
+## Contact
 
-### RISK
+Feel free to reach out:
 
-A pygame reproduction of the famous game. You can play from 3 to 6 players. The game manages the missions of each player, the attack system, the troup distribution etc... It's challenging because of the complex rules and because of the complex display of the game. In addition to that, we have a launcher, in Tkinter, with a user gestion, requiring to register or to connect before launching a game. This project was made in collaboration with [olmetaprogrammer](https://github.com/olmetaprogrammer), [AntoinePscl](https://github.com/AntoinePscl) and [vitto4](https://github.com/vitto4)
-
-Repo Link [here](https://github.com/CLEMS3/RISK)
-
-Demo Link [here](https://drive.google.com/file/d/1Gw-RwRHFq68P0Ttf7SCP2lsuzaglU9Kv/view)
-
-
-## Get in touch
-
-You can reach me on [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-chapard-8349b3231/) and [Mail](mailto:fromaggipizza@gmail.com)! Feel free to reach out to me for collaborations or any interesting discussions.
-
-
-Looking forward to connecting with fellow developers, enthusiasts, and learners!
-
-# Have a great day! 🚀
+* Email: [clement.chapard@gmail.com]
+* LinkedIn: [https://www.linkedin.com/in/clement-chapard/]
