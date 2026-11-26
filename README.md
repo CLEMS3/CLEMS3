@@ -1,10 +1,10 @@
 # Clément Chapard
 
-**AI security engineer** — LLM red-teaming, privacy-preserving machine learning and applied cryptography.
+**AI security engineer** - LLM red-teaming, privacy-preserving machine learning and cybersecurity.
 
 MAS in Cybersecurity from Illinois Tech (4.0 GPA) · Computer Science engineering degree at INSA Lyon (Feb 2027)
 
-🔎 **Open to full-time roles in AI security / AI × cybersecurity from early 2027 — anywhere in Europe or abroad.**
+🔎 **Open to full-time roles in AI security / AI × cybersecurity from early 2027 - anywhere in Europe or abroad.**
 
 ---
 
@@ -22,7 +22,7 @@ Coursework in privacy engineering (CS528): k-anonymity, differential privacy, se
 
 ## Experience
 
-- **Sia Partners** (Paris) — Cybersecurity & AI Trust consultant intern, 2026 · founding member of the Cyberlab's AI Trust stream, research on indirect prompt injection
+- **Sia Partners** (Paris) — Cybersecurity & AI Trust consultant intern, 2026 · member of the Cyberlab's AI Trust stream, research on indirect prompt injection, R&D on AI-assisted vulnerability patching
 - **Arkema** (Pierre-Bénite) — Industrial cybersecurity intern, 2025 · OT remote-access solutions
 
 ## Skills
