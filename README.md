@@ -18,7 +18,6 @@ MAS in Cybersecurity from Illinois Tech (4.0 GPA) · Computer Science engineerin
 | [**SecureShare**](https://github.com/CLEMS3/SecureShare) | End-to-end encrypted file transfer built directly on raw TCP sockets | C++ |
 | [**FHE-Matrix-Multiplication**](https://github.com/CLEMS3/FHE-Matrix-Multiplication) | Encrypted matrix multiplication with fully homomorphic encryption | C++, OpenFHE |
 
-Coursework in privacy engineering (CS528): k-anonymity, differential privacy, secure multi-party computation, secret sharing, zero-knowledge proofs and private information retrieval.
 
 ## Experience
 
