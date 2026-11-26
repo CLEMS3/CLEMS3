@@ -1,38 +1,39 @@
 # Clément Chapard
 
-## About Me
+**AI security engineer** — LLM red-teaming, privacy-preserving machine learning and applied cryptography.
 
-I am a 5th-year Computer Science student at INSA Lyon and a graduate student at Illinois Tech pursuing a Master of Cybersecurity. My academic and professional experiences focus on cybersecurity, software engineering, and web development.
+MAS in Cybersecurity from Illinois Tech (4.0 GPA) · Computer Science engineering degree at INSA Lyon (Feb 2027)
 
-## Interests
+🔎 **Open to full-time roles in AI security / AI × cybersecurity from early 2027 — anywhere in Europe or abroad.**
 
-* Blue team cybersecurity
-* Software development
-* Web developement
-* Secure and privacy preserving decentralized systems
+---
 
-## Current Goals
+## Featured projects
 
-I am currently looking for a 6-months end-of-studies internship where I can apply my skills in cybersecurity, contribute to real-world security challenges, and deepen my expertise in security.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**JailbreakLLM**](https://github.com/CLEMS3/JailbreakLLM) | Closed-loop red-teaming orchestrator: an attacker model generates jailbreaks, a target model is tested, and a judge model scores each attempt against a rubric | Python, LLMs, DigitalOcean |
+| [**Agentic-Jailbreak**](https://github.com/CLEMS3/Agentic-Jailbreak) | Agentic AI that automates jailbreaking across several LLMs | Python |
+| [**ConfidentialML**](https://github.com/CLEMS3/ConfidentialML) | Federated learning under an honest-but-curious threat model: Paillier homomorphic encryption for secure aggregation + differential privacy | Python, Docker Compose |
+| [**SecureShare**](https://github.com/CLEMS3/SecureShare) | End-to-end encrypted file transfer built directly on raw TCP sockets | C++ |
+| [**FHE-Matrix-Multiplication**](https://github.com/CLEMS3/FHE-Matrix-Multiplication) | Encrypted matrix multiplication with fully homomorphic encryption | C++, OpenFHE |
+
+Coursework in privacy engineering (CS528): k-anonymity, differential privacy, secure multi-party computation, secret sharing, zero-knowledge proofs and private information retrieval.
+
+## Experience
+
+- **Sia Partners** (Paris) — Cybersecurity & AI Trust consultant intern, 2026 · founding member of the Cyberlab's AI Trust stream, research on indirect prompt injection
+- **Arkema** (Pierre-Bénite) — Industrial cybersecurity intern, 2025 · OT remote-access solutions
 
 ## Skills
 
-* **Software development:** Python, C/C++, Java
-* **Web development:** Django, Spring Boot, React, JavaScript, TypeScript, HTML, CSS
-* **Database:**  SQL, PL/SQL, MongoDB
-* **Data Science:** Python (numpy, pandas, scipy, sklearn), data mining, data clustering, GIS mapping, BI (Pentaho, MDX, PowerBI), Prolog
-* **Data Science:** protocoles et architecture, DNS, TCP/IP, ...
-* **Cybersecurity:** Cryptography, OT security, data protection, Zero Trust Protocol, homomorphic encryption, differential privacy, k-anonymity, frequent vulnerabilities
-* **Project management:** Git, GitHub, GitLab, Agile methodology
-
-## Education
-
-* **INSA Lyon** – 5th Year, Computer Science Department
-* **Illinois Institute of Technology** – Master of Cybersecurity
+- **AI security:** LLM red-teaming, jailbreak automation, prompt injection, safety benchmarking, multi-agent systems
+- **Privacy & crypto:** homomorphic encryption (Paillier, FHE), differential privacy, federated learning, SMPC, k-anonymity
+- **Security:** static analysis (Soot, Slither), automated vulnerability patching, OT security, Zero Trust
+- **Languages:** Python, C/C++, Java, TypeScript
+- **Tooling:** Docker, Git, Linux, Jupyter
 
 ## Contact
 
-Feel free to reach out:
-
-* Email: [clement.chapard@gmail.com]
-* LinkedIn: [https://www.linkedin.com/in/clement-chapard/]
+- Email: [clement.chapard@gmail.com](mailto:clement.chapard@gmail.com)
+- LinkedIn: [linkedin.com/in/clement-chapard](https://www.linkedin.com/in/clement-chapard/)
